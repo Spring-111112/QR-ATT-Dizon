@@ -12,7 +12,7 @@
       "supportsTablet": true
     },
     "android": {
-      "package": "com.iisannnn.QRATT",
+      "package": "com.stickersmash97.QRATT",
       "edgeToEdgeEnabled": true,
       "predictiveBackGestureEnabled": false,
       "adaptiveIcon": {
@@ -45,9 +45,9 @@
     "extra": {
       "router": {},
       "eas": {
-        "projectId": "124c3db6-6191-48e6-b782-d39e1e7448cd"
+        "projectId": "a218f72d-d44a-44f1-96f8-f0c3cdcbf813"
       }
     },
-    "owner": "ethangabriel"
+    "owner": "stickersmash97"
   }
 }
